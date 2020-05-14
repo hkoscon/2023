@@ -120,7 +120,8 @@
             href="http://creativecommons.org/licenses/by-sa/3.0/hk/"
             target="_blank"
             class=""
-          >Creative Commons Attribution-ShareAlike 3.0 Hong Kong License</a>. Logos and trademarks belong to their respective owners.
+          >Creative Commons Attribution-ShareAlike 3.0 Hong Kong License</a>.
+          Logos and trademarks belong to their respective owners.
         </p>
       </div>
     </div>

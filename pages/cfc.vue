@@ -33,14 +33,30 @@
         The following communities would participate in HKOSCon 2020 (in alphabetic order):
       </p>
       <ul class="cfc__list">
-        <li class="cfc__list__item">Agile HK</li>
-        <li class="cfc__list__item">COSCUP</li>
-        <li class="cfc__list__item">GDG (Google Developer Group) </li>
-        <li class="cfc__list__item">FtO (Facing to Ocean) </li>
-        <li class="cfc__list__item">G0Vhk</li>
-        <li class="cfc__list__item">Open Culture Station</li>
-        <li class="cfc__list__item">Cloud Native Taiwan User Group</li>
-        <li class="cfc__list__item">MySQL community</li>
+        <li class="cfc__list__item">
+          Agile HK
+        </li>
+        <li class="cfc__list__item">
+          COSCUP
+        </li>
+        <li class="cfc__list__item">
+          GDG (Google Developer Group)
+        </li>
+        <li class="cfc__list__item">
+          FtO (Facing to Ocean)
+        </li>
+        <li class="cfc__list__item">
+          G0Vhk
+        </li>
+        <li class="cfc__list__item">
+          Open Culture Station
+        </li>
+        <li class="cfc__list__item">
+          Cloud Native Taiwan User Group
+        </li>
+        <li class="cfc__list__item">
+          MySQL community
+        </li>
       </ul>
     </div>
   </main>
@@ -48,7 +64,7 @@
 
 <script>
 export default {
-  name: 'Call for Communities Result',
+  name: 'CallForCommunitiesResult',
   head: {
     title: 'Call for Communities Result | Hong Kong Open Source Conference 2020',
     meta: [

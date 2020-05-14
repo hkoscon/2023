@@ -41,7 +41,10 @@
       <h4 class="subtitle is-5">
         {{ meta }}
       </h4>
-      <div class="authorcard__description" v-html="speaker.description" />
+      <div
+        v-html="speaker.description"
+        class="authorcard__description"
+      />
     </div>
   </div>
 </template>

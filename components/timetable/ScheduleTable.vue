@@ -111,7 +111,8 @@ export default {
     };
   },
   mounted() {
-    const offset = this.$refs.tabs.getBoundingClientRect().top - document.body.getBoundingClientRect().top - 52;
+    const offset = this.$refs.tabs.getBoundingClientRect().top
+      - document.body.getBoundingClientRect().top - 52;
     window.addEventListener('scroll', () => {
       if (window.pageYOffset >= offset) {
         this.sticky = true;

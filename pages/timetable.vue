@@ -26,13 +26,13 @@ export default {
     ScheduleTable: () => import('~/components/timetable/ScheduleTable.vue'),
     PageBanner: () => import('~/components/PageBanner.vue'),
   },
-  asyncData() {
-    return fetchTopic();
-  },
   data() {
     return {
       days: [],
     };
+  },
+  asyncData() {
+    return fetchTopic();
   },
 };
 </script>
