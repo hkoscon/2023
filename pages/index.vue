@@ -129,7 +129,7 @@
             <i class="material-icons">
               add_location
             </i>
-          </span> TBC
+          </span> Cyberport 3, 100 Cyberport Road, Telegraph Bay
         </p>
         <div class="homePage__social">
           <a
