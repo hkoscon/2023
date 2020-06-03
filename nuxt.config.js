@@ -9,6 +9,7 @@ const publicPath = (process.env.PUBLIC_PATH || '/2020').replace(/\/$/, '');
 process.env.publicPath = publicPath;
 
 // A little hint for debug
+// eslint-disable-next-line no-console
 console.log(`publicPath: "${publicPath}"`);
 
 function fetchTopicUrl() {

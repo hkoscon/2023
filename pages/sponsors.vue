@@ -61,28 +61,51 @@
         Sponsors
       </h1>
       <div
-        class="sponsor__container__tier"
         v-for="tier in sponsors"
         :key="tier.name"
+        class="sponsor__container__tier"
       >
-        <h2 class="title is-4">{{ tier.name }}</h2>
+        <h2 class="title is-4">
+          {{ tier.name }}
+        </h2>
         <div class="sponsor__container__tier__sponsors">
-          <div class="sponsor__container__tier__sponsor" v-for="sponsor in tier.sponsors" :key="sponsor.title">
+          <div
+            v-for="sponsor in tier.sponsors"
+            :key="sponsor.title"
+            class="sponsor__container__tier__sponsor"
+          >
             <div class="sponsor__container__tier__sponsor__logo">
-              <img :src="sponsor.logo" :alt="sponsor.title" />
+              <img
+                :src="sponsor.logo"
+                :alt="sponsor.title"
+              >
             </div>
             <div class="sponsor__container__tier__sponsor__desc">
-              <h3 class="title is-5">{{ sponsor.title }}</h3>
-              <div class="content-wrapper" v-if="sponsor.description">
+              <h3 class="title is-5">
+                {{ sponsor.title }}
+              </h3>
+              <div
+                v-if="sponsor.description"
+                class="content-wrapper"
+              >
                 <details>
                   <summary>About</summary>
-                  <div class="content" v-html="sponsor.description"></div>
+                  <div
+                    v-html="sponsor.description"
+                    class="content"
+                  />
                 </details>
               </div>
               <div class="actions">
                 <ul class="links">
-                  <li v-for="(link, index) in sponsor.links" :key="index">
-                    <a class="button is-link" :href="link.url">{{ link.title }}</a>
+                  <li
+                    v-for="(link, index) in sponsor.links"
+                    :key="index"
+                  >
+                    <a
+                      :href="link.url"
+                      class="button is-link"
+                    >{{ link.title }}</a>
                   </li>
                 </ul>
               </div>
@@ -91,15 +114,18 @@
         </div>
       </div>
       <div
-        class="sponsor__container__tier"
         v-if="patrons.length > 0"
+        class="sponsor__container__tier"
       >
-        <h2 class="title is-3">Patrons</h2>
+        <h2 class="title is-3">
+          Patrons
+        </h2>
         <div class="sponsor__container__tier__sponsors">
           <div class="sponsor__container__tier__sponsor sponsor__container__tier__patron">
             <ul>
               <li
-                v-for="patron in patrons" :key="patron"
+                v-for="patron in patrons"
+                :key="patron"
               >
                 {{ patron }}
               </li>

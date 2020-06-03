@@ -44,30 +44,34 @@
     <section class="section">
       <div class="container content">
         <div>
-          <h2 class="title is-3">Organizers</h2>
+          <h2 class="title is-3">
+            Organizers
+          </h2>
           <ul class="aboutOrganizersPage__organizers">
             <li
-              class="aboutOrganizersPage__organizers__organizer card"
               v-for="organizer in organizers"
               :key="organizer.name"
+              class="aboutOrganizersPage__organizers__organizer card"
             >
               <div class="aboutOrganizersPage__organizers__organizer__logo card-image">
                 <figure class="image">
-                  <img :src="organizer.logo" />
+                  <img :src="organizer.logo">
                 </figure>
               </div>
               <div class="card-content">
                 <div class="media-content">
-                  <h3 class="title is-4">{{ organizer.name }}</h3>
+                  <h3 class="title is-4">
+                    {{ organizer.name }}
+                  </h3>
                 </div>
                 <div class="aboutOrganizersPage__organizers__organizer__description content">
                   {{ organizer.description }}
                 </div>
                 <footer class="card-footer">
                   <a
+                    :href="organizer.website"
                     class="aboutOrganizersPage__organizers__organizer__website card-footer-item"
                     target="_blank"
-                    :href="organizer.website"
                   >
                     Website
                   </a>
@@ -77,30 +81,34 @@
           </ul>
         </div>
         <div>
-          <h2 class="title is-3">Partner</h2>
+          <h2 class="title is-3">
+            Partner
+          </h2>
           <ul class="aboutOrganizersPage__organizers">
             <li
-              class="aboutOrganizersPage__organizers__organizer card"
               v-for="organizer in partners"
               :key="organizer.name"
+              class="aboutOrganizersPage__organizers__organizer card"
             >
               <div class="aboutOrganizersPage__organizers__organizer__logo card-image">
                 <figure class="image">
-                  <img :src="organizer.logo" />
+                  <img :src="organizer.logo">
                 </figure>
               </div>
               <div class="card-content">
                 <div class="media-content">
-                  <h3 class="title is-4">{{ organizer.name }}</h3>
+                  <h3 class="title is-4">
+                    {{ organizer.name }}
+                  </h3>
                 </div>
                 <div class="aboutOrganizersPage__organizers__organizer__description content">
                   {{ organizer.description }}
                 </div>
                 <footer class="card-footer">
                   <a
+                    :href="organizer.website"
                     class="aboutOrganizersPage__organizers__organizer__website card-footer-item"
                     target="_blank"
-                    :href="organizer.website"
                   >
                     Website
                   </a>

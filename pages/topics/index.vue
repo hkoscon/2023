@@ -41,10 +41,12 @@
       <div class="container">
         <div class="content">
           <p>
-            We are pleased to announce the CFP results. We have received 17 submissions before our deadline.
+            We are pleased to announce the CFP results. We have received 17 submissions before
+            our deadline.
           </p>
           <p>
-            Here is the list of the accepted CFP topics, along with some invited sessions &amp; confirmed sponsor sessions:
+            Here is the list of the accepted CFP topics, along with some invited sessions &amp;
+            confirmed sponsor sessions:
           </p>
           <div class="topics">
             <ul>
