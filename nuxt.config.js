@@ -18,6 +18,9 @@ function fetchTopicUrl() {
 }
 
 module.exports = {
+  // For nuxt v2.14+ compatibility
+  target: 'static',
+
   /*
   ** Headers of the page
   */
