@@ -181,7 +181,7 @@
             <i class="material-icons">
               calendar_today
             </i>
-          </span> 17 Jul, 2021 (Fri - Sat)
+          </span> 17 Jul, 2021 (Fri)
         </p>
         <p class="has-text-primary homePage__cover__text">
           <span class="icon">
