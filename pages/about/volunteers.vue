@@ -62,12 +62,12 @@ import fetchVolunteers from '../../utils/fetchVolunteers';
 export default {
   name: 'AboutVolunteerPage',
   head: {
-    title: 'Volunteers | Hong Kong Open Source Confernce 2020',
+    title: 'Volunteers | Hong Kong Open Source Confernce 2021',
     meta: [
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Volunteers | Hong Kong Open Source Conference 2020',
+        content: 'Volunteers | Hong Kong Open Source Conference 2021',
       },
       {
         hid: 'description',

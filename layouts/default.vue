@@ -75,7 +75,7 @@
           to="/"
         >
           <img src="~assets/images/brand.png">
-          <span>HKOSCon 2020</span>
+          <span>HKOSCon 2021</span>
         </nuxt-link>
 
 
@@ -221,11 +221,12 @@
           </div>
         </div>
 
+        <!--
         <div class="navbar-end">
           <div class="navbar-item">
             <p class="control">
               <a
-                href="https://hkoscon2020.eventbrite.com/?aff=website"
+                href="https://hkoscon2021.eventbrite.com/?aff=website"
                 target="_blank"
                 class="button is-primary"
               >
@@ -234,6 +235,7 @@
             </p>
           </div>
         </div>
+        -->
       </div>
     </nav>
     <div class="defaultLayout__content">

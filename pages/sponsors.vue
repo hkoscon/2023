@@ -143,9 +143,9 @@ import { fetchEventInfo } from '../utils/fetchTopic';
 export default {
   name: 'Sponsors',
   head: {
-    title: 'Sponsors | Hong Kong Open Source Confernce 2020',
+    title: 'Sponsors | Hong Kong Open Source Confernce 2021',
     meta: [
-      { hid: 'og:title', property: 'og:title', content: 'Sponsors Us | Hong Kong Open Source Conference 2020' },
+      { hid: 'og:title', property: 'og:title', content: 'Sponsors Us | Hong Kong Open Source Conference 2021' },
       { hid: 'description', name: 'description', content: 'HKOSCon depends on the industry’s sponsorship as the event is at minimum cost.' },
     ],
   },
