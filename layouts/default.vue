@@ -144,7 +144,6 @@
           >
             Communities
           </nuxt-link>
-          -->
           <nuxt-link
             to="/sponsors"
             class="navbar-item"
@@ -164,6 +163,7 @@
           >
             Safety Measures
           </a>
+          -->
           <div
             :class="{ 'is-active': showArchive }"
             class="navbar-item has-dropdown"
@@ -175,6 +175,12 @@
               Archive
             </span>
             <div class="navbar-dropdown">
+              <a
+                href="https://hkoscon.org/2020/"
+                class="navbar-item"
+              >
+                HKOSCon 2020
+              </a>
               <a
                 href="https://hkoscon.org/2019/"
                 class="navbar-item"
