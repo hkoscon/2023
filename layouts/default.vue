@@ -227,21 +227,19 @@
           </div>
         </div>
 
-        <!--
         <div class="navbar-end">
           <div class="navbar-item">
             <p class="control">
               <a
-                href="https://hkoscon2021.eventbrite.com/?aff=website"
+                href="http://bit.ly/hkoscon2021cfp"
                 target="_blank"
                 class="button is-primary"
               >
-                Get a Ticket
+                Call for Proposal
               </a>
             </p>
           </div>
         </div>
-        -->
       </div>
     </nav>
     <div class="defaultLayout__content">
