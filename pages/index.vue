@@ -8,6 +8,7 @@
       background-size: cover;
       background-attachment: fixed;
       background-position: center 0;
+      background-image: url('~assets/images/bg.jpg');
       padding: 0 !important;
       &__inner {
         padding: .75rem;
@@ -161,12 +162,46 @@
       width: 100%;
     }
   }
+  .cfp {
+    &__cover {
+      height: 100vh;
+      background-repeat: no-repeat;
+      background-color: #05a3fa;
+      min-height: 750px;
+      background-size: cover;
+      background-position: center 0;
+      padding: 0 !important;
+      &__inner {
+        padding: .75rem;
+        background-color: rgba(0,0,0,.5);
+        height: 100%;
+        text-align: center;
+      }
+
+      &__text {
+        margin-top: 1rem;
+        > .icon {
+          vertical-align: middle;
+        }
+      }
+    }
+
+    &__keyvisual {
+      text-align: center !important;
+      padding-top: 10vh !important;
+
+      &__image {
+        margin: 20vh auto 0;
+        width: 50vh !important;
+        height: auto !important;
+      }
+    }
+  }
 </style>
 
 <template>
   <main class="homePage">
     <div
-      :style="{backgroundImage}"
       class="tile is-parent is-transparent homePage__cover"
     >
       <div class="tile is-child homePage__cover__inner">
@@ -242,6 +277,23 @@
         </div>
       </div>
     </div>
+    <div
+      class="tile is-parent is-transparent cfp__cover"
+    >
+      <div class="tile is-child cfp__cover__inner">
+        <figure class="image is-square cfp__keyvisual">
+          <a
+            href=""
+            target="_blank"
+          >
+            <img
+              src="~assets/images/cfp-2021.jpg"
+              class="cfp__keyvisual__image"
+            >
+          </a>
+        </figure>
+      </div>
+    </div>
   </main>
 </template>
 
@@ -250,7 +302,6 @@ export default {
   name: 'HomePage',
   data() {
     return {
-      backgroundImage: `url(${process.env.publicPath}/images/bg.jpg)`,
     };
   },
 };
