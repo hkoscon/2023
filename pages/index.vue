@@ -267,7 +267,7 @@
       <a
         @click="scrollNext"
         class="homePage__next-button-wrapper__next-button"
-      >🡣</a>
+      >⇣</a>
     </div>
     <div
       id="home-top"
