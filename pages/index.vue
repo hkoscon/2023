@@ -1,5 +1,46 @@
 <style lang="scss">
+  @keyframes flash {
+    from {
+      opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
   .homePage {
+    &__next-button-wrapper {
+      display: block;
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      width: 100vw;
+      transition: 0.5s opacity;
+      animation: flash 0.6s normal forwards ease-in-out;
+      animation-iteration-count: 3;
+      &.hidden {
+        opacity: 0 !important;
+        pointer-events: none;
+        animation: none;
+      }
+      &__next-button {
+        display: block;
+        position: absolute;
+        text-align: center;
+        font-size: 1.5em;
+        line-height: 1.5em;
+        width: 2.5em;
+        height: 2.5em;
+        padding: 0.5em;
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 1);
+        right: calc(50vw - 1.5em);
+        bottom: 0.5em;
+        z-index: 20;
+      }
+    }
     &__cover {
       height: 100vh;
       background-repeat: no-repeat;
@@ -8,6 +49,7 @@
       background-size: cover;
       background-attachment: fixed;
       background-position: center 0;
+      background-image: url('~assets/images/bg.jpg');
       padding: 0 !important;
       &__inner {
         padding: .75rem;
@@ -161,12 +203,74 @@
       width: 100%;
     }
   }
+  .cfp {
+    &__cover {
+      height: 100vh;
+      background-repeat: no-repeat;
+      background-color: #05a3fa;
+      color: rgba(255, 255, 255, 0.8);
+      min-height: 750px;
+      background-size: cover;
+      background-position: center 0;
+      padding: 0 !important;
+      &__inner {
+        padding: .75rem;
+        background-color: rgba(0,0,0,.5);
+        height: 100%;
+        text-align: center;
+      }
+
+      &__text {
+        margin-top: 0.5rem;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: justify;
+        > .icon {
+          vertical-align: middle;
+        }
+        &.greeting {
+          text-align: center;
+          margin-bottom: 1rem;
+          font-size: 2rem;
+          color: rgba(255, 255, 255, 1);
+        }
+        &.actions {
+          text-align: center;
+        }
+      }
+    }
+
+    &__keyvisual {
+      text-align: center !important;
+      padding-top: 14vh !important;
+
+      &__image {
+        display: initial !important;
+        position: relative !important;
+        width: 45vh !important;
+        height: auto !important;
+
+/*
+        margin: 20vh auto 0;
+        width: 50vh !important;
+        height: auto !important;
+        */
+      }
+    }
+  }
 </style>
 
 <template>
   <main class="homePage">
+    <div class="homePage__next-button-wrapper">
+      <a
+        @click="scrollNext"
+        class="homePage__next-button-wrapper__next-button"
+      >⇣</a>
+    </div>
     <div
-      :style="{backgroundImage}"
+      id="home-top"
       class="tile is-parent is-transparent homePage__cover"
     >
       <div class="tile is-child homePage__cover__inner">
@@ -242,16 +346,92 @@
         </div>
       </div>
     </div>
+    <div
+      id="home-cfp"
+      class="tile is-parent is-transparent cfp__cover"
+    >
+      <div class="tile is-child cfp__cover__inner">
+        <figure class="image is-square cfp__keyvisual">
+          <a
+            href="http://bit.ly/hkoscon2021cfp"
+            target="_blank"
+          >
+            <img
+              src="~assets/images/cfp-2021.jpg"
+              class="cfp__keyvisual__image"
+            >
+          </a>
+        </figure>
+        <p class="cfp__cover__text greeting">
+          Hello World~~~
+        </p>
+        <p class="cfp__cover__text">
+          Hong Kong Open Source Conference will held on 17 July
+          2021 as webinar format. For now, we are calling for proposal to any
+          open technology topics. We are looking forward your topics as a
+          speaker this year!
+        </p>
+        <p class="cfp__cover__text">
+          OSHK, participating communities and HKOSCon are inviting you to
+          submit proposals to HKOSCon 2021. You may propose a talk ( Regular
+          25mins / Short 15mins )
+        </p>
+        <p class="cfp__cover__text actions">
+          <a
+            class="button"
+            href="http://bit.ly/hkoscon2021cfp"
+            target="_blank"
+          >
+            Count me in!
+          </a>
+        </p>
+      </div>
+    </div>
   </main>
 </template>
 
 <script>
+function isInViewport(element) {
+  const rect = element.getBoundingClientRect();
+  const result = rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+    || rect.bottom <= 0;
+  return result;
+}
+function getAfterFirst(check, elements) {
+  return elements[elements.findIndex(check) + 1] || false;
+}
 export default {
   name: 'HomePage',
   data() {
     return {
-      backgroundImage: `url(${process.env.publicPath}/images/bg.jpg)`,
     };
+  },
+  mounted() {
+    this.toggleNextButtonVisibility();
+    window.addEventListener('scroll', this.toggleNextButtonVisibility);
+  },
+  destroyed() {
+    window.removeEventListener('scroll', this.toggleNextButtonVisibility);
+  },
+  methods: {
+    toggleNextButtonVisibility() {
+      const buttonWrapper = document.querySelector('.homePage__next-button-wrapper');
+      const last = Array.from(document.querySelectorAll('.homePage > div.tile')).pop();
+      if (isInViewport(last)) {
+        buttonWrapper.classList.add('hidden');
+      } else {
+        buttonWrapper.classList.remove('hidden');
+      }
+    },
+    scrollNext() {
+      const elements = Array.from(document.querySelectorAll('.homePage > div.tile'));
+      const next = getAfterFirst(isInViewport, elements);
+      if (next !== false) {
+        next.scrollIntoView({
+          behavior: 'smooth',
+        });
+      }
+    },
   },
 };
 </script>
