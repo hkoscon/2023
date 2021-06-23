@@ -150,12 +150,14 @@
           >
             Sponsors
           </nuxt-link>
+          -->
           <nuxt-link
             to="/timetable"
             class="navbar-item"
           >
             Timetable
           </nuxt-link>
+          <!--
           <a
             href="https://info.hkoscon.org/2020/04/safety-measures-dealing-with-covid-19-pandemic/"
             class="navbar-item"
@@ -231,11 +233,11 @@
           <div class="navbar-item">
             <p class="control">
               <a
-                href="http://bit.ly/hkoscon2021cfp"
+                href="https://bit.ly/HKOSCon2021"
                 target="_blank"
                 class="button is-primary"
               >
-                Call for Proposal
+                Get Ticket
               </a>
             </p>
           </div>
