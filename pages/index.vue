@@ -346,6 +346,7 @@
         </div>
       </div>
     </div>
+    <!--
     <div
       id="home-cfp"
       class="tile is-parent is-transparent cfp__cover"
@@ -387,6 +388,7 @@
         </p>
       </div>
     </div>
+    -->
   </main>
 </template>
 
