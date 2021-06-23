@@ -43,6 +43,10 @@
           content: ' /';
         }
       }
+
+      .media {
+        align-items: center;
+      }
     }
     &__content {
       overflow-y: hidden;
