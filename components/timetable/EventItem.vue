@@ -43,11 +43,17 @@
           content: ' /';
         }
       }
+
+      .media {
+        align-items: center;
+      }
     }
     &__content {
       overflow-y: hidden;
       &__info {
         display: inline-block;
+        // since all sessions are remote in 2021, no need for this indicator.
+        /*
         &__type_remote::before {
           display: inline-block;
           width: 0.8em;
@@ -70,6 +76,7 @@
           margin-right: 0.5em;
           content: ' ';
         }
+        */
       }
       &__info:not(:last-child) {
         &::after {
