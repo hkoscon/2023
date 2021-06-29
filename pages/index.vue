@@ -143,6 +143,14 @@
         }
       }
     }
+
+    &__ticketing {
+      &__button {
+        display: inline-block;
+        font-size: 1.5rem;
+      }
+    }
+
   }
   .section-venue {
     width: 100vw;
@@ -294,6 +302,12 @@
             </i>
           </span> Virtual
         </p>
+        <div class="homePage__ticketing">
+          <a
+            class="homePage__ticketing__button button is-primary"
+            href="https://bit.ly/HKOSCon2021" target="_blank"
+          >Get Ticket Now</a>
+        </div>
         <div class="homePage__social">
           <a
             href="https://info.hkoscon.org/"
