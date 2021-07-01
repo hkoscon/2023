@@ -221,7 +221,7 @@ export default {
     avatar: {
       type: String,
       required: true,
-      default: 'https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=80&d=mm&r=g',
+      default: `${process.env.PUBLIC_PATH}/images/kottis-avatar.jpg`,
     },
     /**
      * @type string
