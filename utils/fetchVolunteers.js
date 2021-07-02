@@ -91,10 +91,7 @@ const volunteers = {
       name: 'Alvis Wong',
       role: 'Executive Committee',
       posts: ['Programme Team'],
-      social: {
-        linkedin: 'calvin-tyl',
-        github: 'DebugTsang',
-      },
+      social: {},
     },
     {
       name: 'Eric Ng',
