@@ -145,6 +145,9 @@
                 {{ event.level }}
               </span>
             </p>
+            <p>
+              {{ event.time.startTime }} - {{ event.time.endTime }}
+            </p>
           </div>
         </div>
       </div>

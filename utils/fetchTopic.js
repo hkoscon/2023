@@ -60,9 +60,10 @@ export function fetchTopicById(id) {
     .then(({ days }) => {
       const map = new Map();
       days.forEach(({ day, date, timeslots }) => {
-        timeslots.forEach(({ startTime, endTime, events }) => {
+        timeslots.forEach(({ events }) => {
           events.forEach((e) => {
             if (!e.topic) return;
+            const { startTime, endTime } = e.time;
             map.set(topicSlug(e), {
               day,
               date,
