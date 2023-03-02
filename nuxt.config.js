@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 import { fetchTopics, topicSlug } from './utils/fetchTopic';
 
 dotenv.config();
-const publicPath = (process.env.PUBLIC_PATH || '/2021').replace(/\/$/, '');
+const publicPath = (process.env.PUBLIC_PATH || '/2023').replace(/\/$/, '');
 
 // Declare process.env.publicPath to
 // unify build and dev environment.
@@ -25,19 +25,19 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'HKOSCon 2021',
+    title: 'HKOSCon 2023',
     meta: [
       { charset: 'utf-8' },
       { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
       { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' },
-      { hid: 'description', name: 'description', content: 'Hong Kong Open Source Conference is the biggest annual open source event in Hong Kong. Hong Kong Open Source Conference 2021 is going to held on 17 July, 2021 (Sat)' },
+      { hid: 'description', name: 'description', content: 'Hong Kong Open Source Conference is the biggest annual open source event in Hong Kong. Hong Kong Open Source Conference 2023 is going to held on 9-10 June, 2023 (Fri-Sat)' },
       { hid: 'theme-color', name: 'theme-color', content: '#294454' },
       { hid: 'author', name: 'author', content: 'Team 404 Busters' },
-      { hid: 'og:title', property: 'og:title', content: 'Hong Kong Open Source Conference 2021' },
-      { hid: 'og:site_name', property: 'og:site_name', content: 'Hong Kong Open Source Conference 2021' },
+      { hid: 'og:title', property: 'og:title', content: 'Hong Kong Open Source Conference 2023' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Hong Kong Open Source Conference 2023' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:image', property: 'og:image', content: 'https://hkoscon.org/logo.png' },
-      { hid: 'description', name: 'description', content: 'Hong Kong Open Source Conference is the biggest annual open source event in Hong Kong. Hong Kong Open Source Conference 2021 is going to held on 17 July, 2021 (Sat).' },
+      { hid: 'description', name: 'description', content: 'Hong Kong Open Source Conference is the biggest annual open source event in Hong Kong. Hong Kong Open Source Conference 2023 is going to held on 9-10 June, 2023 (Fri-Sat).' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'https://hkoscon.org/favicon.ico' },
@@ -100,9 +100,9 @@ module.exports = {
     PUBLIC_PATH: publicPath,
     publicPath,
     PUBLIC_TIMETABLE_URL: process.env.PUBLIC_TIMETABLE_URL || `${publicPath}/data/timetable.json`,
-    TIMETABLE_URL: process.env.TIMETABLE_URL || 'https://hkoscon.org/2021/data/timetable.json',
+    TIMETABLE_URL: process.env.TIMETABLE_URL || 'https://hkoscon.org/2023/data/timetable.json',
     PUBLIC_EVENT_INFO_URL: process.env.PUBLIC_EVENT_INFO_URL || `${publicPath}/data/event_info.json`,
-    EVENT_INFO_URL: process.env.EVENT_INFO_URL || 'https://hkoscon.org/2021/data/event_info.json',
+    EVENT_INFO_URL: process.env.EVENT_INFO_URL || 'https://hkoscon.org/2023/data/event_info.json',
     NUXT_MODE: process.env.NUXT_MODE,
   },
   modules: [
@@ -124,12 +124,12 @@ module.exports = {
       enabled: true,
     },
     generate: {
-      cacheId: 'hkoscon-2021',
+      cacheId: 'hkoscon-2023',
     },
   },
 
   sitemap: {
-    hostname: 'https://hkoscon.org/2021/',
+    hostname: 'https://hkoscon.org/2023/',
     generate: true,
     routes() {
       return fetchTopicUrl();

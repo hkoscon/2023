@@ -61,7 +61,7 @@
 <template>
   <footer>
     <div class="pageFooter__hashtag has-text-right has-text-theme-blue">
-      #HKOSCon2021
+      #HKOSCon2023
     </div>
     <div class="footer pageFooter__social">
       <div class="has-text-centered pageFooter__social__section">

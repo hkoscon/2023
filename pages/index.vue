@@ -293,7 +293,7 @@
             <i class="material-icons">
               calendar_today
             </i>
-          </span> 17 Jul, 2021 (Sat)
+          </span> 17 Jul, 2023 (Sat)
         </p>
         <p class="has-text-primary homePage__cover__text">
           <span class="icon">
@@ -305,7 +305,7 @@
         <div class="homePage__ticketing">
           <a
             class="homePage__ticketing__button button is-primary"
-            href="https://bit.ly/HKOSCon2021" target="_blank"
+            href="https://bit.ly/HKOSCon2023" target="_blank"
           >Get Ticket Now</a>
         </div>
         <div class="homePage__social">
@@ -368,11 +368,11 @@
       <div class="tile is-child cfp__cover__inner">
         <figure class="image is-square cfp__keyvisual">
           <a
-            href="http://bit.ly/hkoscon2021cfp"
+            href="http://bit.ly/hkoscon2023cfp"
             target="_blank"
           >
             <img
-              src="~assets/images/cfp-2021.jpg"
+              src="~assets/images/cfp-2023.jpg"
               class="cfp__keyvisual__image"
             >
           </a>
@@ -382,19 +382,19 @@
         </p>
         <p class="cfp__cover__text">
           Hong Kong Open Source Conference will held on 17 July
-          2021 as webinar format. For now, we are calling for proposal to any
+          2023 as webinar format. For now, we are calling for proposal to any
           open technology topics. We are looking forward your topics as a
           speaker this year!
         </p>
         <p class="cfp__cover__text">
           OSHK, participating communities and HKOSCon are inviting you to
-          submit proposals to HKOSCon 2021. You may propose a talk ( Regular
+          submit proposals to HKOSCon 2023. You may propose a talk ( Regular
           25mins / Short 15mins )
         </p>
         <p class="cfp__cover__text actions">
           <a
             class="button"
-            href="http://bit.ly/hkoscon2021cfp"
+            href="http://bit.ly/hkoscon2023cfp"
             target="_blank"
           >
             Count me in!

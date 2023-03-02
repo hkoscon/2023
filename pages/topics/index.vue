@@ -72,9 +72,9 @@ import { fetchTopics } from '../../utils/fetchTopic';
 export default {
   name: 'TopicsPage',
   head: {
-    title: 'Topics | Hong Kong Open Source Conference 2021',
+    title: 'Topics | Hong Kong Open Source Conference 2023',
     meta: [
-      { hid: 'og:title', property: 'og:title', content: 'Topics | Hong Kong Open Source Conference 2021' },
+      { hid: 'og:title', property: 'og:title', content: 'Topics | Hong Kong Open Source Conference 2023' },
       { hid: 'description', name: 'description', content: 'We are pleased to announce the CFP results. We have received 60 submissions before our deadline March 4...' },
     ],
   },

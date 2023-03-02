@@ -15,7 +15,7 @@
       <h1 class="title is-3">
         Call for Proposals
       </h1>
-      <p>Thanks for interested in submitting topics. Our 2021 Call for Proposal was closed.</p>
+      <p>Thanks for interested in submitting topics. Our 2023 Call for Proposal was closed.</p>
       <p>
         Please find the results <nuxt-link to="/topics">
           here
@@ -38,10 +38,10 @@
 export default {
   name: 'CFPPage',
   head: {
-    title: 'Call for Proposals | Hong Kong Open Source Confernce 2021',
+    title: 'Call for Proposals | Hong Kong Open Source Confernce 2023',
     meta: [
-      { hid: 'og:title', property: 'og:title', content: 'Call for Proposals | Hong Kong Open Source Conference 2021' },
-      { hid: 'description', name: 'description', content: 'Thanks for interested in submitting topics. Our 2021 Call for Proposal was closed.' },
+      { hid: 'og:title', property: 'og:title', content: 'Call for Proposals | Hong Kong Open Source Conference 2023' },
+      { hid: 'description', name: 'description', content: 'Thanks for interested in submitting topics. Our 2023 Call for Proposal was closed.' },
     ],
   },
 };

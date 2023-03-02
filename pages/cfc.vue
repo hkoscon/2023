@@ -30,7 +30,7 @@
         Thanks for the overwhelming responses from open source communities.
       </p>
       <p>
-        The following communities would participate in HKOSCon 2021 (in alphabetic order):
+        The following communities would participate in HKOSCon 2023 (in alphabetic order):
       </p>
       <ul class="cfc__list">
         <li
@@ -49,9 +49,9 @@
 export default {
   name: 'CallForCommunitiesResult',
   head: {
-    title: 'Call for Communities Result | Hong Kong Open Source Conference 2021',
+    title: 'Call for Communities Result | Hong Kong Open Source Conference 2023',
     meta: [
-      { hid: 'og:title', property: 'og:title', content: 'Call for Communities Result | Hong Kong Open Source Conference 2021' },
+      { hid: 'og:title', property: 'og:title', content: 'Call for Communities Result | Hong Kong Open Source Conference 2023' },
     ],
   },
   data() {
