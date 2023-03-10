@@ -1,5 +1,0 @@
-.nuxt
-dist
-public
-static/sw.*
-modules/workbox/template
