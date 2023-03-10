@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "cdf3f8abe293ad917cd923bfe4efe465"
+    "revision": "9456920949092f4b28b5ebb2600a64d3"
   },
   {
     "url": "/2023//topics/index.html",
@@ -331,7 +331,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "cdf3f8abe293ad917cd923bfe4efe465"
+    "revision": "9456920949092f4b28b5ebb2600a64d3"
   },
   {
     "url": "/2023//topics/",
