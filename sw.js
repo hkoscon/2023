@@ -339,11 +339,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "d044d7abd1d90f3ad3953219015fd451"
+    "revision": "84b8387fd05f7da8fcc987b2bd15c9e7"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
-    "revision": "0e40c4218ff83d16a5f64afecb1dacfa"
+    "revision": "45d339377e399ebb11121af7c55b4cb5"
   },
   {
     "url": "/2023//topics/adapting-your-appssystems-universal-acceptance-standard/index.html",
@@ -375,11 +375,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "56b5dd4efeb63613760d9ba52e96ba70"
+    "revision": "dd7552504f81313d180c4b1171665db6"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
-    "revision": "ec2a5ac4c69054d3d0e4ac33255972bf"
+    "revision": "7d4fd1c3d377cfbedd56393dce172afd"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/index.html",
@@ -418,6 +418,10 @@ self.__precacheManifest = [
     "revision": "a69a8f533f367d584ccad7d40231662a"
   },
   {
+    "url": "/2023//topics/tea-break-0/index.html",
+    "revision": "bda59db0cecc593f97e45b85f4116483"
+  },
+  {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
     "revision": "240c30d87daa6d6a13f2867dcec150ab"
   },
@@ -447,11 +451,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "d044d7abd1d90f3ad3953219015fd451"
+    "revision": "84b8387fd05f7da8fcc987b2bd15c9e7"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
-    "revision": "0e40c4218ff83d16a5f64afecb1dacfa"
+    "revision": "45d339377e399ebb11121af7c55b4cb5"
   },
   {
     "url": "/2023//topics/adapting-your-appssystems-universal-acceptance-standard/",
@@ -483,11 +487,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "56b5dd4efeb63613760d9ba52e96ba70"
+    "revision": "dd7552504f81313d180c4b1171665db6"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
-    "revision": "ec2a5ac4c69054d3d0e4ac33255972bf"
+    "revision": "7d4fd1c3d377cfbedd56393dce172afd"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/",
@@ -524,6 +528,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
     "revision": "a69a8f533f367d584ccad7d40231662a"
+  },
+  {
+    "url": "/2023//topics/tea-break-0/",
+    "revision": "bda59db0cecc593f97e45b85f4116483"
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
