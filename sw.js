@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "84b8387fd05f7da8fcc987b2bd15c9e7"
+    "revision": "6624ba2ccdb31a9ae4d282a1282f8c83"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "dd7552504f81313d180c4b1171665db6"
+    "revision": "2792beb60b4daa57335a129283f46f4f"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/introducing-unikraft-sdk-fast-secure-and-highly-specialized-unikernels/index.html",
-    "revision": "5aa5226d2e3748aea444011b1db55572"
+    "revision": "a28c6bf72bdcc5a358cbe877c163f1b9"
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/index.html",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "84b8387fd05f7da8fcc987b2bd15c9e7"
+    "revision": "6624ba2ccdb31a9ae4d282a1282f8c83"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "dd7552504f81313d180c4b1171665db6"
+    "revision": "2792beb60b4daa57335a129283f46f4f"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/introducing-unikraft-sdk-fast-secure-and-highly-specialized-unikernels/",
-    "revision": "5aa5226d2e3748aea444011b1db55572"
+    "revision": "a28c6bf72bdcc5a358cbe877c163f1b9"
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/",
