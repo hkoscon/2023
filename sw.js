@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "0ce68dd5f674b4d93fcfb5806c4e5cd6"
+    "revision": "1cb21ffdce683d71a8743151e5cb3824"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -379,7 +379,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/index.html",
-    "revision": "5f2e8e415f3852451884d9648ac226b8"
+    "revision": "c8cab270ff7ecbe1bc5fc47b39456b48"
   },
   {
     "url": "/2023//topics/how-use-verilator/index.html",
@@ -387,11 +387,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
-    "revision": "539ea5e9a583b599102b2bb7e0a81284"
+    "revision": "11acf7875322adef4b24136d89144c88"
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "22da01627445dae91d682279bfb5381d"
+    "revision": "666c7619515410df313d4b6ceb57aab5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -471,7 +471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "0ce68dd5f674b4d93fcfb5806c4e5cd6"
+    "revision": "1cb21ffdce683d71a8743151e5cb3824"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -511,7 +511,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/",
-    "revision": "5f2e8e415f3852451884d9648ac226b8"
+    "revision": "c8cab270ff7ecbe1bc5fc47b39456b48"
   },
   {
     "url": "/2023//topics/how-use-verilator/",
@@ -519,11 +519,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
-    "revision": "539ea5e9a583b599102b2bb7e0a81284"
+    "revision": "11acf7875322adef4b24136d89144c88"
   },
   {
     "url": "/2023//topics/",
-    "revision": "22da01627445dae91d682279bfb5381d"
+    "revision": "666c7619515410df313d4b6ceb57aab5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
