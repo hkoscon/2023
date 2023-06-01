@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "428d38897ca10d5e8d3cc6e8704dcf93"
+    "revision": "19c3017a2b313ca35407acc23edd4085"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
-    "revision": "4837a83174a5af9741d4f2d6ecc4a6b7"
+    "revision": "89c6ba58a7245ec7d914c8eb4fc469e8"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/index.html",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "df57306afc04977c5f2b220b68f1bf42"
+    "revision": "87f89dc3fd1ac4a9eb713eacddcff9a8"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -471,7 +471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "428d38897ca10d5e8d3cc6e8704dcf93"
+    "revision": "19c3017a2b313ca35407acc23edd4085"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -507,7 +507,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
-    "revision": "4837a83174a5af9741d4f2d6ecc4a6b7"
+    "revision": "89c6ba58a7245ec7d914c8eb4fc469e8"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "df57306afc04977c5f2b220b68f1bf42"
+    "revision": "87f89dc3fd1ac4a9eb713eacddcff9a8"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
