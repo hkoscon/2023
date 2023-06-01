@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "bde0d007257cc03e7a02fb4eba4c632b"
+    "revision": "428d38897ca10d5e8d3cc6e8704dcf93"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/index.html",
-    "revision": "ad3fc3be517e0f6e86b66e2753cef2a5"
+    "revision": "2ea5a56127e758c65242421b5b53c45c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/index.html",
@@ -372,6 +372,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
     "revision": "be811bbbf69dc65f8e8a956a83fe383f"
+  },
+  {
+    "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
+    "revision": "4837a83174a5af9741d4f2d6ecc4a6b7"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/index.html",
@@ -387,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "f055f69668e36879c17f407e6cccd564"
+    "revision": "df57306afc04977c5f2b220b68f1bf42"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -404,10 +408,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/index.html",
     "revision": "afdbd72c73fa080e973742e6bebf7bc1"
-  },
-  {
-    "url": "/2023//topics/make-podcast-website-plus-dashboard-2023-serverless-way-kotlin/index.html",
-    "revision": "81ddad4ea39a539fb7589df7c51cd9c7"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/index.html",
@@ -471,7 +471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "bde0d007257cc03e7a02fb4eba4c632b"
+    "revision": "428d38897ca10d5e8d3cc6e8704dcf93"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -491,7 +491,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/",
-    "revision": "ad3fc3be517e0f6e86b66e2753cef2a5"
+    "revision": "2ea5a56127e758c65242421b5b53c45c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/",
@@ -504,6 +504,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
     "revision": "be811bbbf69dc65f8e8a956a83fe383f"
+  },
+  {
+    "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
+    "revision": "4837a83174a5af9741d4f2d6ecc4a6b7"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/",
@@ -519,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "f055f69668e36879c17f407e6cccd564"
+    "revision": "df57306afc04977c5f2b220b68f1bf42"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -536,10 +540,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/",
     "revision": "afdbd72c73fa080e973742e6bebf7bc1"
-  },
-  {
-    "url": "/2023//topics/make-podcast-website-plus-dashboard-2023-serverless-way-kotlin/",
-    "revision": "81ddad4ea39a539fb7589df7c51cd9c7"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/",
