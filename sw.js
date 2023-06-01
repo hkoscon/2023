@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "1cb21ffdce683d71a8743151e5cb3824"
+    "revision": "da697d70b32d0a696ee4e8a4aa9c1dc0"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/index.html",
-    "revision": "6312f34da91f76411311d41feb56fead"
+    "revision": "5d69c695633c601a7e1da6aea6c85ae2"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
@@ -387,11 +387,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
-    "revision": "11acf7875322adef4b24136d89144c88"
+    "revision": "4869cb635153ab96781d4d3edcbe6905"
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "666c7619515410df313d4b6ceb57aab5"
+    "revision": "87d882443a0aa88b49f91cf1087c2e48"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -471,7 +471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "1cb21ffdce683d71a8743151e5cb3824"
+    "revision": "da697d70b32d0a696ee4e8a4aa9c1dc0"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/",
-    "revision": "6312f34da91f76411311d41feb56fead"
+    "revision": "5d69c695633c601a7e1da6aea6c85ae2"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
@@ -519,11 +519,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
-    "revision": "11acf7875322adef4b24136d89144c88"
+    "revision": "4869cb635153ab96781d4d3edcbe6905"
   },
   {
     "url": "/2023//topics/",
-    "revision": "666c7619515410df313d4b6ceb57aab5"
+    "revision": "87d882443a0aa88b49f91cf1087c2e48"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
