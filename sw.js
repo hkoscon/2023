@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "76f6da68d44f8deb825bde55c7f263af"
+    "revision": "c04e9165a6ce4e47cb3bddce3596db59"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -370,6 +370,10 @@ self.__precacheManifest = [
     "revision": "5d69c695633c601a7e1da6aea6c85ae2"
   },
   {
+    "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
+    "revision": "6b608025afd227ecb738055e1ef1c0da"
+  },
+  {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
     "revision": "be811bbbf69dc65f8e8a956a83fe383f"
   },
@@ -391,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "526a9e3a1ad231fbdfe0ed51fb7aa832"
+    "revision": "21e827d53484a6064f537f8841974d94"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -450,10 +454,6 @@ self.__precacheManifest = [
     "revision": "4362c619a0da710c509c7eaa36eb765e"
   },
   {
-    "url": "/2023//topics/using-census-data-identify-subdivided-units/index.html",
-    "revision": "0ee71aa3bf199091c7e7cb09053f93ff"
-  },
-  {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/index.html",
     "revision": "105bc3592a60d2d1e1312e66650c60e7"
   },
@@ -483,7 +483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "76f6da68d44f8deb825bde55c7f263af"
+    "revision": "c04e9165a6ce4e47cb3bddce3596db59"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -514,6 +514,10 @@ self.__precacheManifest = [
     "revision": "5d69c695633c601a7e1da6aea6c85ae2"
   },
   {
+    "url": "/2023//topics/helping-underprivileged-use-census-data/",
+    "revision": "6b608025afd227ecb738055e1ef1c0da"
+  },
+  {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
     "revision": "be811bbbf69dc65f8e8a956a83fe383f"
   },
@@ -535,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "526a9e3a1ad231fbdfe0ed51fb7aa832"
+    "revision": "21e827d53484a6064f537f8841974d94"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -592,10 +596,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
     "revision": "4362c619a0da710c509c7eaa36eb765e"
-  },
-  {
-    "url": "/2023//topics/using-census-data-identify-subdivided-units/",
-    "revision": "0ee71aa3bf199091c7e7cb09053f93ff"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/",
