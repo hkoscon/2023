@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "23b3d4b16031b69ba5b2d0d10a522828"
+    "revision": "1651e471021624a3c3914d4308ef13f0"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/index.html",
-    "revision": "34ceb8b7d82eeffbe88ca51ff6a83187"
+    "revision": "2ea5a56127e758c65242421b5b53c45c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/index.html",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "95a7817900b52ec8fbdadd6ea1106910"
+    "revision": "3979bc3af66f6e099d66895e077ee750"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -483,7 +483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "23b3d4b16031b69ba5b2d0d10a522828"
+    "revision": "1651e471021624a3c3914d4308ef13f0"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -503,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/",
-    "revision": "34ceb8b7d82eeffbe88ca51ff6a83187"
+    "revision": "2ea5a56127e758c65242421b5b53c45c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/",
@@ -535,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "95a7817900b52ec8fbdadd6ea1106910"
+    "revision": "3979bc3af66f6e099d66895e077ee750"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
