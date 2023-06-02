@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "da697d70b32d0a696ee4e8a4aa9c1dc0"
+    "revision": "90569eec55f1181a9bb4e7be8e6dcf8e"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/index.html",
-    "revision": "2ea5a56127e758c65242421b5b53c45c"
+    "revision": "34ceb8b7d82eeffbe88ca51ff6a83187"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/index.html",
@@ -383,7 +383,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-use-verilator/index.html",
-    "revision": "f8269c0ee7ff4b389dc84a91cbf693ad"
+    "revision": "6ce51a4cd741af2e79996f69140ffa74"
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
@@ -391,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "87d882443a0aa88b49f91cf1087c2e48"
+    "revision": "d25cf94cdc085d88572f9ec9897fc51e"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -414,12 +414,12 @@ self.__precacheManifest = [
     "revision": "f425e32c971a57d732b7447114267ac0"
   },
   {
-    "url": "/2023//topics/multi-robot-autonomous-exploration-2d/index.html",
-    "revision": "7f4b8d70480c3abd6a9b2ac5b10b8cdf"
+    "url": "/2023//topics/mini-ctf-introduction/index.html",
+    "revision": "042fffa80ff6e61fdabf2a4f08f3ec19"
   },
   {
-    "url": "/2023//topics/open-cultural-data-exchange-sri-lankan-agricultural-village-and-eco-farm-sheung-shui/index.html",
-    "revision": "f91340a217a6a8392753a05eca0e6068"
+    "url": "/2023//topics/multi-robot-autonomous-exploration-2d/index.html",
+    "revision": "7f4b8d70480c3abd6a9b2ac5b10b8cdf"
   },
   {
     "url": "/2023//topics/platform-engineering-django/index.html",
@@ -434,12 +434,24 @@ self.__precacheManifest = [
     "revision": "65d0cce38e3786e1011a6a7eb3196e3b"
   },
   {
+    "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
+    "revision": "879478be3067439d6ecfbfb7fa96c631"
+  },
+  {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/index.html",
     "revision": "5b39788f670230c2d6bec24e2f7b2f28"
   },
   {
+    "url": "/2023//topics/start-using-kubernetes-gateway-api-now-rather-ingress/index.html",
+    "revision": "d22193a7cc3e8b39bff750ed0ccc5613"
+  },
+  {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
     "revision": "4362c619a0da710c509c7eaa36eb765e"
+  },
+  {
+    "url": "/2023//topics/using-census-data-identify-subdivided-units/index.html",
+    "revision": "0ee71aa3bf199091c7e7cb09053f93ff"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/index.html",
@@ -471,7 +483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "da697d70b32d0a696ee4e8a4aa9c1dc0"
+    "revision": "90569eec55f1181a9bb4e7be8e6dcf8e"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -491,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/",
-    "revision": "2ea5a56127e758c65242421b5b53c45c"
+    "revision": "34ceb8b7d82eeffbe88ca51ff6a83187"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/",
@@ -515,7 +527,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-use-verilator/",
-    "revision": "f8269c0ee7ff4b389dc84a91cbf693ad"
+    "revision": "6ce51a4cd741af2e79996f69140ffa74"
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
@@ -523,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "87d882443a0aa88b49f91cf1087c2e48"
+    "revision": "d25cf94cdc085d88572f9ec9897fc51e"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -546,12 +558,12 @@ self.__precacheManifest = [
     "revision": "f425e32c971a57d732b7447114267ac0"
   },
   {
-    "url": "/2023//topics/multi-robot-autonomous-exploration-2d/",
-    "revision": "7f4b8d70480c3abd6a9b2ac5b10b8cdf"
+    "url": "/2023//topics/mini-ctf-introduction/",
+    "revision": "042fffa80ff6e61fdabf2a4f08f3ec19"
   },
   {
-    "url": "/2023//topics/open-cultural-data-exchange-sri-lankan-agricultural-village-and-eco-farm-sheung-shui/",
-    "revision": "f91340a217a6a8392753a05eca0e6068"
+    "url": "/2023//topics/multi-robot-autonomous-exploration-2d/",
+    "revision": "7f4b8d70480c3abd6a9b2ac5b10b8cdf"
   },
   {
     "url": "/2023//topics/platform-engineering-django/",
@@ -566,12 +578,24 @@ self.__precacheManifest = [
     "revision": "65d0cce38e3786e1011a6a7eb3196e3b"
   },
   {
+    "url": "/2023//topics/really-knowing-community-citizen-science/",
+    "revision": "879478be3067439d6ecfbfb7fa96c631"
+  },
+  {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
     "revision": "5b39788f670230c2d6bec24e2f7b2f28"
   },
   {
+    "url": "/2023//topics/start-using-kubernetes-gateway-api-now-rather-ingress/",
+    "revision": "d22193a7cc3e8b39bff750ed0ccc5613"
+  },
+  {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
     "revision": "4362c619a0da710c509c7eaa36eb765e"
+  },
+  {
+    "url": "/2023//topics/using-census-data-identify-subdivided-units/",
+    "revision": "0ee71aa3bf199091c7e7cb09053f93ff"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/",
