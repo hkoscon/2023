@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "3302026c4e556885ea08634c15607085"
+    "revision": "e7bd611b6966616e7d17bf6ecdbb611c"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -355,7 +355,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/coscup-booth-team-journey/index.html",
-    "revision": "82276359e1393f509c9e3e4d9556eec1"
+    "revision": "7ee746464c7089e4772a53182434de61"
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/index.html",
-    "revision": "ff27df7afe09662a9e2832abc1f1621d"
+    "revision": "dcfb78768f46658c965d501d9470c8f2"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
-    "revision": "be811bbbf69dc65f8e8a956a83fe383f"
+    "revision": "5dcab235e76ca4494b3b6ef71b71d817"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "2805ab9877ea5b37d73d6d653987c006"
+    "revision": "68de5862491165db8e52fb422d58ae09"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -435,7 +435,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/proven-software-development-workflows-oss-way-your-growing-business/index.html",
-    "revision": "65d0cce38e3786e1011a6a7eb3196e3b"
+    "revision": "39386a39006ebeb8cfa66c8dd6acd870"
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
@@ -452,6 +452,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
     "revision": "4362c619a0da710c509c7eaa36eb765e"
+  },
+  {
+    "url": "/2023//topics/why-rust-might-change-things-better/index.html",
+    "revision": "8ce359b0a310a7b437556968e9c8d79a"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/index.html",
@@ -483,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "3302026c4e556885ea08634c15607085"
+    "revision": "e7bd611b6966616e7d17bf6ecdbb611c"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -499,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/coscup-booth-team-journey/",
-    "revision": "82276359e1393f509c9e3e4d9556eec1"
+    "revision": "7ee746464c7089e4772a53182434de61"
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/",
@@ -511,7 +515,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/",
-    "revision": "ff27df7afe09662a9e2832abc1f1621d"
+    "revision": "dcfb78768f46658c965d501d9470c8f2"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/",
@@ -519,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
-    "revision": "be811bbbf69dc65f8e8a956a83fe383f"
+    "revision": "5dcab235e76ca4494b3b6ef71b71d817"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
@@ -539,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "2805ab9877ea5b37d73d6d653987c006"
+    "revision": "68de5862491165db8e52fb422d58ae09"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -579,7 +583,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/proven-software-development-workflows-oss-way-your-growing-business/",
-    "revision": "65d0cce38e3786e1011a6a7eb3196e3b"
+    "revision": "39386a39006ebeb8cfa66c8dd6acd870"
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/",
@@ -596,6 +600,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
     "revision": "4362c619a0da710c509c7eaa36eb765e"
+  },
+  {
+    "url": "/2023//topics/why-rust-might-change-things-better/",
+    "revision": "8ce359b0a310a7b437556968e9c8d79a"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/",
