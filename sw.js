@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "c04e9165a6ce4e47cb3bddce3596db59"
+    "revision": "94ffcd2ae0e2a9d4645c3409c079f9fc"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "21e827d53484a6064f537f8841974d94"
+    "revision": "b215bc4f9e5ef5ae20028065b0c95a12"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
-    "revision": "c980ecf835ca73a87e944f10b728416d"
+    "revision": "a3d474fb2cd343351b16e770ace684fb"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/index.html",
@@ -483,7 +483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "c04e9165a6ce4e47cb3bddce3596db59"
+    "revision": "94ffcd2ae0e2a9d4645c3409c079f9fc"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "21e827d53484a6064f537f8841974d94"
+    "revision": "b215bc4f9e5ef5ae20028065b0c95a12"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -583,7 +583,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/",
-    "revision": "c980ecf835ca73a87e944f10b728416d"
+    "revision": "a3d474fb2cd343351b16e770ace684fb"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
