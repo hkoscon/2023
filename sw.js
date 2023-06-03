@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "94ffcd2ae0e2a9d4645c3409c079f9fc"
+    "revision": "3302026c4e556885ea08634c15607085"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -367,7 +367,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/index.html",
-    "revision": "5d69c695633c601a7e1da6aea6c85ae2"
+    "revision": "ff27df7afe09662a9e2832abc1f1621d"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "b215bc4f9e5ef5ae20028065b0c95a12"
+    "revision": "2805ab9877ea5b37d73d6d653987c006"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -483,7 +483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "94ffcd2ae0e2a9d4645c3409c079f9fc"
+    "revision": "3302026c4e556885ea08634c15607085"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -511,7 +511,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/",
-    "revision": "5d69c695633c601a7e1da6aea6c85ae2"
+    "revision": "ff27df7afe09662a9e2832abc1f1621d"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/",
@@ -539,7 +539,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "b215bc4f9e5ef5ae20028065b0c95a12"
+    "revision": "2805ab9877ea5b37d73d6d653987c006"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
