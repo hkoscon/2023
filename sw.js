@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "e907a76c4db1b2cb459cdb7070b82a92"
+    "revision": "1f66fa763fec7c074873296d6e3ded9b"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -367,11 +367,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/index.html",
-    "revision": "0429aecbec00ecb19b24376bb42ba7dd"
+    "revision": "1ff84efb6fe04e755f446290cc04190c"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
-    "revision": "9441a9e10bdc0c5a1fa14a79a1f430dc"
+    "revision": "62cb16ab27a5a560cc3187f6d25595f2"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "ee577a42d589b046a76bd464cad07598"
+    "revision": "17c79234de1e803f8c063d0d1085c551"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
-    "revision": "d524cb987fe6c1868cb20d1eaa36a295"
+    "revision": "b6a653aac0f079bcc0b91f788aeb8ecb"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "e907a76c4db1b2cb459cdb7070b82a92"
+    "revision": "1f66fa763fec7c074873296d6e3ded9b"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -515,11 +515,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/",
-    "revision": "0429aecbec00ecb19b24376bb42ba7dd"
+    "revision": "1ff84efb6fe04e755f446290cc04190c"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/",
-    "revision": "9441a9e10bdc0c5a1fa14a79a1f430dc"
+    "revision": "62cb16ab27a5a560cc3187f6d25595f2"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "ee577a42d589b046a76bd464cad07598"
+    "revision": "17c79234de1e803f8c063d0d1085c551"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -587,7 +587,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/",
-    "revision": "d524cb987fe6c1868cb20d1eaa36a295"
+    "revision": "b6a653aac0f079bcc0b91f788aeb8ecb"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
