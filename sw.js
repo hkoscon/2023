@@ -335,11 +335,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//sponsors/index.html",
-    "revision": "dcd4cc82981b702dddaf3daac908e814"
+    "revision": "3ac82099338463a8bb3e3dae4e9459c2"
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "0297f0b718fd55b5c7ccd4e2313de8ce"
+    "revision": "d55bf0d365f33dfae6364b84c4e53ad2"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
-    "revision": "669e8a5cb450cc5190371ecdf4bfd5ca"
+    "revision": "5cfca4c608768aad75b79794cd93eb37"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "2c3164749e445268907506e177d3b739"
+    "revision": "b8a7b1cd3ac549a722dd54b13065e6c5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -483,11 +483,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//sponsors/",
-    "revision": "dcd4cc82981b702dddaf3daac908e814"
+    "revision": "3ac82099338463a8bb3e3dae4e9459c2"
   },
   {
     "url": "/2023//timetable/",
-    "revision": "0297f0b718fd55b5c7ccd4e2313de8ce"
+    "revision": "d55bf0d365f33dfae6364b84c4e53ad2"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
-    "revision": "669e8a5cb450cc5190371ecdf4bfd5ca"
+    "revision": "5cfca4c608768aad75b79794cd93eb37"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "2c3164749e445268907506e177d3b739"
+    "revision": "b8a7b1cd3ac549a722dd54b13065e6c5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
