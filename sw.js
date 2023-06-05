@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "d55bf0d365f33dfae6364b84c4e53ad2"
+    "revision": "c3bdc42bee122c31386212d26cf54c4c"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
-    "revision": "5cfca4c608768aad75b79794cd93eb37"
+    "revision": "1058326126ea9b9a21a66c0da456d845"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "b8a7b1cd3ac549a722dd54b13065e6c5"
+    "revision": "b77d491714bdcf004981eb3844766987"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "d55bf0d365f33dfae6364b84c4e53ad2"
+    "revision": "c3bdc42bee122c31386212d26cf54c4c"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -523,7 +523,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
-    "revision": "5cfca4c608768aad75b79794cd93eb37"
+    "revision": "1058326126ea9b9a21a66c0da456d845"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "b8a7b1cd3ac549a722dd54b13065e6c5"
+    "revision": "b77d491714bdcf004981eb3844766987"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
