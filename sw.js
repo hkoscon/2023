@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "3ccea9ae06ab8cba0d0b9af33d50ca40"
+    "revision": "feb33ae2b42d8c70dd540c59df3281e7"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -371,7 +371,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
-    "revision": "6974585df3b2dd374f369283d7d57373"
+    "revision": "0038d088145412b3e51b9db1c2f1a97c"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
@@ -395,11 +395,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "3101e9f184f080e25ee49f5e40e3e863"
+    "revision": "5f671b06ac0cb0191bad09508fea8de3"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
-    "revision": "8b2fe79b6c860c0645b656ed94a24964"
+    "revision": "5df9d1b9c8c94e5fecdd68e719b4c095"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/index.html",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
-    "revision": "892b59830f115502a8660b80c66ddf06"
+    "revision": "954c029cc84cebf76942b4f7c939c352"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "3ccea9ae06ab8cba0d0b9af33d50ca40"
+    "revision": "feb33ae2b42d8c70dd540c59df3281e7"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -519,7 +519,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/",
-    "revision": "6974585df3b2dd374f369283d7d57373"
+    "revision": "0038d088145412b3e51b9db1c2f1a97c"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
@@ -543,11 +543,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "3101e9f184f080e25ee49f5e40e3e863"
+    "revision": "5f671b06ac0cb0191bad09508fea8de3"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
-    "revision": "8b2fe79b6c860c0645b656ed94a24964"
+    "revision": "5df9d1b9c8c94e5fecdd68e719b4c095"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/",
@@ -587,7 +587,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/",
-    "revision": "892b59830f115502a8660b80c66ddf06"
+    "revision": "954c029cc84cebf76942b4f7c939c352"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
