@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "feb33ae2b42d8c70dd540c59df3281e7"
+    "revision": "a94f21e5a2bc6568cacc2b810c51c0cb"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "5f671b06ac0cb0191bad09508fea8de3"
+    "revision": "7774b1c29d19337f2377e9aa5097fba5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
-    "revision": "9440b25d1b724c25541d152afbb16538"
+    "revision": "5d11c0b7cb49d5e29a2cb68ba2f2bdd3"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "feb33ae2b42d8c70dd540c59df3281e7"
+    "revision": "a94f21e5a2bc6568cacc2b810c51c0cb"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "5f671b06ac0cb0191bad09508fea8de3"
+    "revision": "7774b1c29d19337f2377e9aa5097fba5"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -599,7 +599,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
-    "revision": "9440b25d1b724c25541d152afbb16538"
+    "revision": "5d11c0b7cb49d5e29a2cb68ba2f2bdd3"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/",
