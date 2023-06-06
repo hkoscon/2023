@@ -39,7 +39,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//200.html",
-    "revision": "2986432c16ddad541655c76b6fc0e44c"
+    "revision": "7c1f8ffeac1145038bb367942293c402"
   },
   {
     "url": "/2023//20f34071e5c0a9afb371.css",
@@ -48,6 +48,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//26b281021e8b8c8cf600.js",
     "revision": "5eebe7e7acaf0dab5a4a6abbef341f53"
+  },
+  {
+    "url": "/2023//2a2cd4f96763e003f42c.js",
+    "revision": "15add2cb803ef2fa99c77a5d87aba324"
   },
   {
     "url": "/2023//2eebaaa33facabe23112.css",
@@ -66,8 +70,8 @@ self.__precacheManifest = [
     "revision": "53ea2ba1308def2b9a92becd29f15479"
   },
   {
-    "url": "/2023//49954775fe0ba03a408f.js",
-    "revision": "ab4ae65098480e9ba6c36abcb1061b4f"
+    "url": "/2023//4c550b23d40a1e7e79de.js",
+    "revision": "5845d1c15362175886d8b5575dc8e146"
   },
   {
     "url": "/2023//4da485d22386dc469b5a.js",
@@ -80,10 +84,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//75b93ec3d25f011383ca.js",
     "revision": "9e2361e78c6bc610c741b7646fe599cd"
-  },
-  {
-    "url": "/2023//7d5c3798a491f68d9044.js",
-    "revision": "801b91ae1d77913233580a34b9923492"
   },
   {
     "url": "/2023//7f096b06c5e3e97101f4.js",
@@ -102,10 +102,6 @@ self.__precacheManifest = [
     "revision": "a7a7bcc5069a2d30051021536ca5ee96"
   },
   {
-    "url": "/2023//9d097e1386eb7b638082.js",
-    "revision": "6cfca7f0274e97b206a7de320d4d69c2"
-  },
-  {
     "url": "/2023//9de606048f2750ea6488.js",
     "revision": "85677d39de0fbcf80930134d6790f721"
   },
@@ -119,11 +115,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//about/organizers/index.html",
-    "revision": "ab0d8d0d295044b791c456a6ec3aeb8a"
+    "revision": "15c2056e52f938d36bafe09745e60857"
   },
   {
     "url": "/2023//about/volunteers/index.html",
-    "revision": "299b99f0a0b524453c3d9a6476a8b73c"
+    "revision": "b9c1b86822b61cc684c6f369d1d7a65d"
   },
   {
     "url": "/2023//b0db12701fb5a09a05f3.js",
@@ -167,11 +163,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//cfc/index.html",
-    "revision": "9779f9a74b763585c6e06876421c39e2"
+    "revision": "f4ae746634db322371833f766ea96b52"
   },
   {
     "url": "/2023//cfp/index.html",
-    "revision": "d0732ca712ed13a2b2b7e3cb69d9155f"
+    "revision": "0f7068d629ff7da375c30baf35841619"
   },
   {
     "url": "/2023//d00ccbf98ad705f7fe54.js",
@@ -188,6 +184,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//d9b8cf91c275f9757349.js",
     "revision": "2d5988245d0b66549618c09c9980ff14"
+  },
+  {
+    "url": "/2023//da57d9cc9c7c47d5e97a.js",
+    "revision": "aaaaef45b48ba890f2fe62e659e19fc1"
   },
   {
     "url": "/2023//db1dc6b2f78a05311cc2.js",
@@ -331,283 +331,283 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//index.html",
-    "revision": "6f1b30afdae07a5f8654686e37a17150"
+    "revision": "ab6a300a68df96fc3e3acd0343749cf1"
   },
   {
     "url": "/2023//sponsors/index.html",
-    "revision": "0909e6444ddeffb9a289e222319e55bc"
+    "revision": "3b7c2f74c2e0f5920b0276bbc2610146"
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "4aecc3816cdb5d2c90dfd353011e0456"
+    "revision": "3ccea9ae06ab8cba0d0b9af33d50ca40"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
-    "revision": "6c53a95a8042cd26838c93fdc7abf2c9"
+    "revision": "fd0d4be40271ee6de5cfa013391091a6"
   },
   {
     "url": "/2023//topics/adapting-your-appssystems-universal-acceptance-standard/index.html",
-    "revision": "e20277697c78726aba2facd3e91772f1"
+    "revision": "86b70b32b78cf1d3d058f9e3d9ca9350"
   },
   {
     "url": "/2023//topics/build-your-ai-first-apps-faster-semantic-kernel-microsoft-azure/index.html",
-    "revision": "ef3e3a69240a553538f4ab94e2e3dd46"
+    "revision": "ec4ec8ece54431200f619740d3fbb193"
   },
   {
     "url": "/2023//topics/coscup-booth-team-journey/index.html",
-    "revision": "30776e89b6eefd57c0c5e8403afdddbe"
+    "revision": "8dac5dabd4f8c81bcd2d502977b60f8f"
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/index.html",
-    "revision": "e670c8a5ee5b782260db056962467721"
+    "revision": "de1b5e9438a5ee2c3f1fa9f68fba614c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/index.html",
-    "revision": "7dfe7c2751064dc781bc9c77df0a2dd2"
+    "revision": "2ab7cff9191f8fcc97c8a9fc2e982197"
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/index.html",
-    "revision": "a08542af18d540ddfd4c94075958d0e2"
+    "revision": "d15856aa991716bef944536c53a00758"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
-    "revision": "25e308ea106a9af7af867ea49a28789f"
+    "revision": "6974585df3b2dd374f369283d7d57373"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
-    "revision": "718578027252baf9a1e94a9f14cdf5af"
+    "revision": "25f866ab77117d832133b1f1f9653cf9"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
-    "revision": "cca940098ebc92437ab8f84ff153219d"
+    "revision": "586af63914f216a2cbe67b569d8a54f1"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/index.html",
-    "revision": "7bf95b3e569adf39bfacfc16056bf339"
+    "revision": "fe148bba68ac6c0d4cf74a49a3ffa081"
   },
   {
     "url": "/2023//topics/how-use-verilator/index.html",
-    "revision": "17ab54130a6ebcb544a87afe9f6551eb"
+    "revision": "0a4bd525ccef841e5ef93f9fee564c7f"
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
-    "revision": "e2628866689df468167e2e4a20bbb795"
+    "revision": "99a22b98bd7c1515d0457bc359b7c915"
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "c556dafcbdee5006f1bda5b713fc84f8"
+    "revision": "3101e9f184f080e25ee49f5e40e3e863"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
-    "revision": "8a407329091061d89e8f046f65893695"
+    "revision": "8b2fe79b6c860c0645b656ed94a24964"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/index.html",
-    "revision": "e8f0726a2c240dcd8bc9a82905f45456"
+    "revision": "45c3b800a1027c48e97341c66e50e2d3"
   },
   {
     "url": "/2023//topics/introducing-unikraft-sdk-fast-secure-and-highly-specialized-unikernels/index.html",
-    "revision": "ae8e78e6a57920cfd44bf09f3dc9e487"
+    "revision": "b51f50c14660de0347f6c28795aa78f6"
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/index.html",
-    "revision": "24fbcc937043fadf7c559388502e8bc8"
+    "revision": "da91dd43e1b7c475f4245853257f1de2"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/index.html",
-    "revision": "13e9e0945c1c154f67321d006afc14d9"
+    "revision": "f281d0964047b2c2067ca14fc9e9f8bf"
   },
   {
     "url": "/2023//topics/mini-ctf-introduction/index.html",
-    "revision": "362656857c2c0c1e899df4fe54242aff"
+    "revision": "2f47f5bce8b4c78c4413590bcdc0e3f5"
   },
   {
     "url": "/2023//topics/multi-robot-autonomous-exploration-2d/index.html",
-    "revision": "9047bde2b5b12a41b5b64638cf7d56e8"
+    "revision": "22f1e2316d75d1bf8ebd626770a79e19"
   },
   {
     "url": "/2023//topics/platform-engineering-django/index.html",
-    "revision": "689a5dd94f651f0dfe923f8aa7f0c911"
+    "revision": "a432bd2969f5e9014a89b1d623691bea"
   },
   {
     "url": "/2023//topics/playing-raspberry-pi-looking-use-case-and-play-yourself/index.html",
-    "revision": "b8354c94da9ad09e7a70a7a17f2a8dd1"
+    "revision": "d09d7faccb84302fc603a6054d9dce31"
   },
   {
     "url": "/2023//topics/proven-software-development-workflows-oss-way-your-growing-business/index.html",
-    "revision": "95e9b7cfb5bedbdef2f202df243a54d0"
+    "revision": "94ed96cbd51b663e66a76600359f1b58"
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/index.html",
-    "revision": "f0d497ac87b37ef4689140a7b6024b91"
+    "revision": "892b59830f115502a8660b80c66ddf06"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/index.html",
-    "revision": "3fd68f95e222712436c5d1d61e02793a"
+    "revision": "0f6c1f5b4659ba463dd82ff69d053e79"
   },
   {
     "url": "/2023//topics/start-using-kubernetes-gateway-api-now-rather-ingress/index.html",
-    "revision": "62ab4df8cff67e33579353dab59d50f0"
+    "revision": "b16077583ff220c6a8cea4ed2b8c35ab"
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
-    "revision": "2aa57ffeae3e112d36191702ca31a0dc"
+    "revision": "9440b25d1b724c25541d152afbb16538"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/index.html",
-    "revision": "e295120e49ac6957149e0382abc03bde"
+    "revision": "399ff10d2ccb9993edb1fe53913f4d3f"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/index.html",
-    "revision": "719ece3c8082e4a0738d3fca27dee216"
+    "revision": "472506bc6cd18354addfbebc6081f975"
   },
   {
     "url": "/2023//about/organizers/",
-    "revision": "ab0d8d0d295044b791c456a6ec3aeb8a"
+    "revision": "15c2056e52f938d36bafe09745e60857"
   },
   {
     "url": "/2023//about/volunteers/",
-    "revision": "299b99f0a0b524453c3d9a6476a8b73c"
+    "revision": "b9c1b86822b61cc684c6f369d1d7a65d"
   },
   {
     "url": "/2023//cfc/",
-    "revision": "9779f9a74b763585c6e06876421c39e2"
+    "revision": "f4ae746634db322371833f766ea96b52"
   },
   {
     "url": "/2023//cfp/",
-    "revision": "d0732ca712ed13a2b2b7e3cb69d9155f"
+    "revision": "0f7068d629ff7da375c30baf35841619"
   },
   {
     "url": "/2023//",
-    "revision": "6f1b30afdae07a5f8654686e37a17150"
+    "revision": "ab6a300a68df96fc3e3acd0343749cf1"
   },
   {
     "url": "/2023//sponsors/",
-    "revision": "0909e6444ddeffb9a289e222319e55bc"
+    "revision": "3b7c2f74c2e0f5920b0276bbc2610146"
   },
   {
     "url": "/2023//timetable/",
-    "revision": "4aecc3816cdb5d2c90dfd353011e0456"
+    "revision": "3ccea9ae06ab8cba0d0b9af33d50ca40"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
-    "revision": "6c53a95a8042cd26838c93fdc7abf2c9"
+    "revision": "fd0d4be40271ee6de5cfa013391091a6"
   },
   {
     "url": "/2023//topics/adapting-your-appssystems-universal-acceptance-standard/",
-    "revision": "e20277697c78726aba2facd3e91772f1"
+    "revision": "86b70b32b78cf1d3d058f9e3d9ca9350"
   },
   {
     "url": "/2023//topics/build-your-ai-first-apps-faster-semantic-kernel-microsoft-azure/",
-    "revision": "ef3e3a69240a553538f4ab94e2e3dd46"
+    "revision": "ec4ec8ece54431200f619740d3fbb193"
   },
   {
     "url": "/2023//topics/coscup-booth-team-journey/",
-    "revision": "30776e89b6eefd57c0c5e8403afdddbe"
+    "revision": "8dac5dabd4f8c81bcd2d502977b60f8f"
   },
   {
     "url": "/2023//topics/dynamic-kubernetes-based-feature-environment-aws/",
-    "revision": "e670c8a5ee5b782260db056962467721"
+    "revision": "de1b5e9438a5ee2c3f1fa9f68fba614c"
   },
   {
     "url": "/2023//topics/fensanshichubanmianduidesandaoweiqiang/",
-    "revision": "7dfe7c2751064dc781bc9c77df0a2dd2"
+    "revision": "2ab7cff9191f8fcc97c8a9fc2e982197"
   },
   {
     "url": "/2023//topics/helping-residents-subdivided-units-using-data-multiple-sources/",
-    "revision": "a08542af18d540ddfd4c94075958d0e2"
+    "revision": "d15856aa991716bef944536c53a00758"
   },
   {
     "url": "/2023//topics/helping-underprivileged-use-census-data/",
-    "revision": "25e308ea106a9af7af867ea49a28789f"
+    "revision": "6974585df3b2dd374f369283d7d57373"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
-    "revision": "718578027252baf9a1e94a9f14cdf5af"
+    "revision": "25f866ab77117d832133b1f1f9653cf9"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
-    "revision": "cca940098ebc92437ab8f84ff153219d"
+    "revision": "586af63914f216a2cbe67b569d8a54f1"
   },
   {
     "url": "/2023//topics/how-implement-email-subscription-and-delivery-system-using-coscup-newsletter-subscription/",
-    "revision": "7bf95b3e569adf39bfacfc16056bf339"
+    "revision": "fe148bba68ac6c0d4cf74a49a3ffa081"
   },
   {
     "url": "/2023//topics/how-use-verilator/",
-    "revision": "17ab54130a6ebcb544a87afe9f6551eb"
+    "revision": "0a4bd525ccef841e5ef93f9fee564c7f"
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
-    "revision": "e2628866689df468167e2e4a20bbb795"
+    "revision": "99a22b98bd7c1515d0457bc359b7c915"
   },
   {
     "url": "/2023//topics/",
-    "revision": "c556dafcbdee5006f1bda5b713fc84f8"
+    "revision": "3101e9f184f080e25ee49f5e40e3e863"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
-    "revision": "8a407329091061d89e8f046f65893695"
+    "revision": "8b2fe79b6c860c0645b656ed94a24964"
   },
   {
     "url": "/2023//topics/interesting-cases-and-tips-2-years-postgres-experience/",
-    "revision": "e8f0726a2c240dcd8bc9a82905f45456"
+    "revision": "45c3b800a1027c48e97341c66e50e2d3"
   },
   {
     "url": "/2023//topics/introducing-unikraft-sdk-fast-secure-and-highly-specialized-unikernels/",
-    "revision": "ae8e78e6a57920cfd44bf09f3dc9e487"
+    "revision": "b51f50c14660de0347f6c28795aa78f6"
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/",
-    "revision": "24fbcc937043fadf7c559388502e8bc8"
+    "revision": "da91dd43e1b7c475f4245853257f1de2"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/",
-    "revision": "13e9e0945c1c154f67321d006afc14d9"
+    "revision": "f281d0964047b2c2067ca14fc9e9f8bf"
   },
   {
     "url": "/2023//topics/mini-ctf-introduction/",
-    "revision": "362656857c2c0c1e899df4fe54242aff"
+    "revision": "2f47f5bce8b4c78c4413590bcdc0e3f5"
   },
   {
     "url": "/2023//topics/multi-robot-autonomous-exploration-2d/",
-    "revision": "9047bde2b5b12a41b5b64638cf7d56e8"
+    "revision": "22f1e2316d75d1bf8ebd626770a79e19"
   },
   {
     "url": "/2023//topics/platform-engineering-django/",
-    "revision": "689a5dd94f651f0dfe923f8aa7f0c911"
+    "revision": "a432bd2969f5e9014a89b1d623691bea"
   },
   {
     "url": "/2023//topics/playing-raspberry-pi-looking-use-case-and-play-yourself/",
-    "revision": "b8354c94da9ad09e7a70a7a17f2a8dd1"
+    "revision": "d09d7faccb84302fc603a6054d9dce31"
   },
   {
     "url": "/2023//topics/proven-software-development-workflows-oss-way-your-growing-business/",
-    "revision": "95e9b7cfb5bedbdef2f202df243a54d0"
+    "revision": "94ed96cbd51b663e66a76600359f1b58"
   },
   {
     "url": "/2023//topics/really-knowing-community-citizen-science/",
-    "revision": "f0d497ac87b37ef4689140a7b6024b91"
+    "revision": "892b59830f115502a8660b80c66ddf06"
   },
   {
     "url": "/2023//topics/running-cloud-native-application-mysql-kubernetes/",
-    "revision": "3fd68f95e222712436c5d1d61e02793a"
+    "revision": "0f6c1f5b4659ba463dd82ff69d053e79"
   },
   {
     "url": "/2023//topics/start-using-kubernetes-gateway-api-now-rather-ingress/",
-    "revision": "62ab4df8cff67e33579353dab59d50f0"
+    "revision": "b16077583ff220c6a8cea4ed2b8c35ab"
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
-    "revision": "2aa57ffeae3e112d36191702ca31a0dc"
+    "revision": "9440b25d1b724c25541d152afbb16538"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/",
-    "revision": "e295120e49ac6957149e0382abc03bde"
+    "revision": "399ff10d2ccb9993edb1fe53913f4d3f"
   },
   {
     "url": "/2023//topics/write-and-enforce-fine-grained-application-permissions-using-policy-code-cedar/",
-    "revision": "719ece3c8082e4a0738d3fca27dee216"
+    "revision": "472506bc6cd18354addfbebc6081f975"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
