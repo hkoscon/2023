@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "cf3a2e097b6fd63b8241eca05098c319"
+    "revision": "cd61fe09ac6cd0b20e14ba789c6839db"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "cf3a2e097b6fd63b8241eca05098c319"
+    "revision": "cd61fe09ac6cd0b20e14ba789c6839db"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
