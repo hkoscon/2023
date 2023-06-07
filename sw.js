@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "cabbabbf36c801dee32cde31a7b6be6f"
+    "revision": "1c6aa9a2b886609663458ccb63e9082e"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -370,8 +370,8 @@ self.__precacheManifest = [
     "revision": "d15856aa991716bef944536c53a00758"
   },
   {
-    "url": "/2023//topics/helping-underprivileged-use-census-data/index.html",
-    "revision": "0038d088145412b3e51b9db1c2f1a97c"
+    "url": "/2023//topics/helping-underprivileged-census-statistics-data/index.html",
+    "revision": "c8b76997aa6ff1f8428885142cdfc0ac"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "605ffd4e0979aeced3e07e99c050bc32"
+    "revision": "3a2d2d2fc3f3339c1ff008e995d0f82c"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "cabbabbf36c801dee32cde31a7b6be6f"
+    "revision": "1c6aa9a2b886609663458ccb63e9082e"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -518,8 +518,8 @@ self.__precacheManifest = [
     "revision": "d15856aa991716bef944536c53a00758"
   },
   {
-    "url": "/2023//topics/helping-underprivileged-use-census-data/",
-    "revision": "0038d088145412b3e51b9db1c2f1a97c"
+    "url": "/2023//topics/helping-underprivileged-census-statistics-data/",
+    "revision": "c8b76997aa6ff1f8428885142cdfc0ac"
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "605ffd4e0979aeced3e07e99c050bc32"
+    "revision": "3a2d2d2fc3f3339c1ff008e995d0f82c"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
