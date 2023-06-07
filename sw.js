@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "a94f21e5a2bc6568cacc2b810c51c0cb"
+    "revision": "fe96b81627b0111e0f93177ba1a9f8fb"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "7774b1c29d19337f2377e9aa5097fba5"
+    "revision": "e694a6e2e3019099e2610b345edde9cf"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -427,7 +427,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/platform-engineering-django/index.html",
-    "revision": "a432bd2969f5e9014a89b1d623691bea"
+    "revision": "80c64facfc112f8e06abd8331a2e23eb"
   },
   {
     "url": "/2023//topics/playing-raspberry-pi-looking-use-case-and-play-yourself/index.html",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
-    "revision": "5d11c0b7cb49d5e29a2cb68ba2f2bdd3"
+    "revision": "6c5985d2bb4d12659f3c6bc83b3461b3"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "a94f21e5a2bc6568cacc2b810c51c0cb"
+    "revision": "fe96b81627b0111e0f93177ba1a9f8fb"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -543,7 +543,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "7774b1c29d19337f2377e9aa5097fba5"
+    "revision": "e694a6e2e3019099e2610b345edde9cf"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -575,7 +575,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/platform-engineering-django/",
-    "revision": "a432bd2969f5e9014a89b1d623691bea"
+    "revision": "80c64facfc112f8e06abd8331a2e23eb"
   },
   {
     "url": "/2023//topics/playing-raspberry-pi-looking-use-case-and-play-yourself/",
@@ -599,7 +599,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
-    "revision": "5d11c0b7cb49d5e29a2cb68ba2f2bdd3"
+    "revision": "6c5985d2bb4d12659f3c6bc83b3461b3"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/",
