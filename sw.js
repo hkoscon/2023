@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "08faa4e36453ac332915858e2b98d2a2"
+    "revision": "4aeb2c697108fd442ddecdd4e4f82fd1"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -391,11 +391,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
-    "revision": "99a22b98bd7c1515d0457bc359b7c915"
+    "revision": "2713e3e211a00926c9f77af4a06d78a6"
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "27a55590ef9443707973fdad974164e9"
+    "revision": "617ada73e4d1e4804e09fb44705d453b"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "08faa4e36453ac332915858e2b98d2a2"
+    "revision": "4aeb2c697108fd442ddecdd4e4f82fd1"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -539,11 +539,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
-    "revision": "99a22b98bd7c1515d0457bc359b7c915"
+    "revision": "2713e3e211a00926c9f77af4a06d78a6"
   },
   {
     "url": "/2023//topics/",
-    "revision": "27a55590ef9443707973fdad974164e9"
+    "revision": "617ada73e4d1e4804e09fb44705d453b"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
