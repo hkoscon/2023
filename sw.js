@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "84dfe1160c6878827a2bb2b7b1f84a18"
+    "revision": "285ff07afcc36999ecc07dde1340532a"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -402,12 +402,8 @@ self.__precacheManifest = [
     "revision": "efd8190eabe02dc5898c0d39302fed24"
   },
   {
-    "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/index.html",
-    "revision": "a3c93ebdba93f3fcebb0cfe42a47bd6e"
-  },
-  {
     "url": "/2023//topics/index.html",
-    "revision": "d91959228671f83395afa69cd1a5700d"
+    "revision": "85e63271ee5e9638967031ddc6c2a175"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -422,8 +418,12 @@ self.__precacheManifest = [
     "revision": "34e6a63ca8d1fadbb4404c3739cc6723"
   },
   {
-    "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/index.html",
-    "revision": "5a7c004f80c69ee73ca1d42870f3609d"
+    "url": "/2023//topics/jieshuyitaidudaquzhongxinhuashequnmeitideneirongshenhenanti/index.html",
+    "revision": "b4152cfc85520d7ff859699e32876374"
+  },
+  {
+    "url": "/2023//topics/kaokaiyuan-qujieliu-aihudeqiu/index.html",
+    "revision": "9abce208afe0c7a7a4653c5ecb3b7ec3"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/index.html",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "84dfe1160c6878827a2bb2b7b1f84a18"
+    "revision": "285ff07afcc36999ecc07dde1340532a"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -550,12 +550,8 @@ self.__precacheManifest = [
     "revision": "efd8190eabe02dc5898c0d39302fed24"
   },
   {
-    "url": "/2023//topics/imagine-decentralized-social-internet-protocol-farcaster-and-beyond/",
-    "revision": "a3c93ebdba93f3fcebb0cfe42a47bd6e"
-  },
-  {
     "url": "/2023//topics/",
-    "revision": "d91959228671f83395afa69cd1a5700d"
+    "revision": "85e63271ee5e9638967031ddc6c2a175"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -570,8 +566,12 @@ self.__precacheManifest = [
     "revision": "34e6a63ca8d1fadbb4404c3739cc6723"
   },
   {
-    "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/",
-    "revision": "5a7c004f80c69ee73ca1d42870f3609d"
+    "url": "/2023//topics/jieshuyitaidudaquzhongxinhuashequnmeitideneirongshenhenanti/",
+    "revision": "b4152cfc85520d7ff859699e32876374"
+  },
+  {
+    "url": "/2023//topics/kaokaiyuan-qujieliu-aihudeqiu/",
+    "revision": "9abce208afe0c7a7a4653c5ecb3b7ec3"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/",
