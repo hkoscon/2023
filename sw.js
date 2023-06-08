@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "285ff07afcc36999ecc07dde1340532a"
+    "revision": "310da627d46bb02118185b4de0238ea2"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/index.html",
-    "revision": "0727a80a54f42ec00245f3f7d6d602a9"
+    "revision": "c8714f8340b77f57224c75fbdfe532a8"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/index.html",
@@ -403,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "85e63271ee5e9638967031ddc6c2a175"
+    "revision": "5c34e934b3d915c7543e49f6c8ac8ce4"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -428,10 +428,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/index.html",
     "revision": "edbfef1a30503bd4eb329eb0c1f96ac2"
-  },
-  {
-    "url": "/2023//topics/mini-ctf-introduction/index.html",
-    "revision": "6e2056dcdfb93d56f203e89adc186f46"
   },
   {
     "url": "/2023//topics/multi-robot-autonomous-exploration-2d/index.html",
@@ -464,6 +460,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/index.html",
     "revision": "4f4e9e6caa88430c636466794fc0f6af"
+  },
+  {
+    "url": "/2023//topics/unleash-your-inner-hacker-cft-game/index.html",
+    "revision": "aad2f2087287801da867ebd7cc1f1c46"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/index.html",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "285ff07afcc36999ecc07dde1340532a"
+    "revision": "310da627d46bb02118185b4de0238ea2"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -535,7 +535,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/how-build-powerful-ai-vr-virtual-assistant-aws-alml-service-and-openai/",
-    "revision": "0727a80a54f42ec00245f3f7d6d602a9"
+    "revision": "c8714f8340b77f57224c75fbdfe532a8"
   },
   {
     "url": "/2023//topics/how-i-make-podcast-website-using-serverless-technology-2023/",
@@ -551,7 +551,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "85e63271ee5e9638967031ddc6c2a175"
+    "revision": "5c34e934b3d915c7543e49f6c8ac8ce4"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -576,10 +576,6 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/",
     "revision": "edbfef1a30503bd4eb329eb0c1f96ac2"
-  },
-  {
-    "url": "/2023//topics/mini-ctf-introduction/",
-    "revision": "6e2056dcdfb93d56f203e89adc186f46"
   },
   {
     "url": "/2023//topics/multi-robot-autonomous-exploration-2d/",
@@ -612,6 +608,10 @@ self.__precacheManifest = [
   {
     "url": "/2023//topics/universal-acceptance-standard-open-inclusive-and-compatible-internet/",
     "revision": "4f4e9e6caa88430c636466794fc0f6af"
+  },
+  {
+    "url": "/2023//topics/unleash-your-inner-hacker-cft-game/",
+    "revision": "aad2f2087287801da867ebd7cc1f1c46"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/",
