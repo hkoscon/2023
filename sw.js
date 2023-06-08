@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "bbbd0ccfa23636ae30b00826152c2b9a"
+    "revision": "84dfe1160c6878827a2bb2b7b1f84a18"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -407,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "f741a490f178aa7328c081e64f9ed115"
+    "revision": "d91959228671f83395afa69cd1a5700d"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -423,7 +423,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/index.html",
-    "revision": "d86cb8bbc42ddba73a988fde87d24177"
+    "revision": "5a7c004f80c69ee73ca1d42870f3609d"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/index.html",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "bbbd0ccfa23636ae30b00826152c2b9a"
+    "revision": "84dfe1160c6878827a2bb2b7b1f84a18"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -555,7 +555,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "f741a490f178aa7328c081e64f9ed115"
+    "revision": "d91959228671f83395afa69cd1a5700d"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -571,7 +571,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/kaokaiyuanqujieliuaihudeqiu/",
-    "revision": "d86cb8bbc42ddba73a988fde87d24177"
+    "revision": "5a7c004f80c69ee73ca1d42870f3609d"
   },
   {
     "url": "/2023//topics/matter-matters-brief-intro-new-smart-home-standard-and-how-home-assistant-supports-it/",
