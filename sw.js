@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/index.html",
-    "revision": "310da627d46bb02118185b4de0238ea2"
+    "revision": "3c5c0ed6c50335b3ef559ed618171a17"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/index.html",
@@ -403,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/index.html",
-    "revision": "5c34e934b3d915c7543e49f6c8ac8ce4"
+    "revision": "3888ce82f99416517ff58da27100e75b"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/index.html",
@@ -462,8 +462,8 @@ self.__precacheManifest = [
     "revision": "4f4e9e6caa88430c636466794fc0f6af"
   },
   {
-    "url": "/2023//topics/unleash-your-inner-hacker-cft-game/index.html",
-    "revision": "aad2f2087287801da867ebd7cc1f1c46"
+    "url": "/2023//topics/unleash-your-inner-hacker-ctf-game/index.html",
+    "revision": "4409c843a94c04ffeb15048894d19d26"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/index.html",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//timetable/",
-    "revision": "310da627d46bb02118185b4de0238ea2"
+    "revision": "3c5c0ed6c50335b3ef559ed618171a17"
   },
   {
     "url": "/2023//topics/accelerating-operations-pdf2txt-gpt-summarization-and-azure-openai-service-open-source/",
@@ -551,7 +551,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2023//topics/",
-    "revision": "5c34e934b3d915c7543e49f6c8ac8ce4"
+    "revision": "3888ce82f99416517ff58da27100e75b"
   },
   {
     "url": "/2023//topics/innovate-common-spatial-data-infrastructure-csdi-spatial-data/",
@@ -610,8 +610,8 @@ self.__precacheManifest = [
     "revision": "4f4e9e6caa88430c636466794fc0f6af"
   },
   {
-    "url": "/2023//topics/unleash-your-inner-hacker-cft-game/",
-    "revision": "aad2f2087287801da867ebd7cc1f1c46"
+    "url": "/2023//topics/unleash-your-inner-hacker-ctf-game/",
+    "revision": "4409c843a94c04ffeb15048894d19d26"
   },
   {
     "url": "/2023//topics/why-rust-might-change-things-better/",
